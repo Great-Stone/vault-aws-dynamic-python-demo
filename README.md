@@ -1,8 +1,8 @@
 # AWS Cloud Credential 적용 코드 샘플 -  Python
 
-> Vault 1.11.4
+> Vault 1.11.4  
 > AWS 기준  
-> Python 3.9
+> Python 3.9  
 > Windows/Mac  
 
 ## 1. Vault 실행
